@@ -1,0 +1,19 @@
+{
+  "name": "Dayspring Personal Finance",
+  "short_name": "Dayspring",
+  "description": "Track bank accounts, credit cards, loans, lending and borrowing — all offline on your phone.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
